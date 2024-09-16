@@ -16,13 +16,13 @@ export default function valuation() {
                 alt=""
                 className="-mt-3"/>
             <div className="h-[500px] w-[560px] bg-[#FFFFFF] rounded-3xl">
-                <div className="m-8 h-full">
+                <div className="m-8 h-full ">
                     <div className="">
                         <div className="flex w-full gap-2">
                             <div className="bg-[#37623A] w-1/2 h-[8px] rounded-full"></div>
                             <div className="bg-[#F1F4F0] w-1/2 h-[8px] rounded-full"></div>
                         </div>
-                        <div className="text-[#27272A] font-bold my-6 text-4xl">Create your first report</div>
+                        <div className="text-[#27272A] font-bold my-6 text-3xl">Create your first report</div>
                         <div className="font-bold text-[#27272A] text-xl">What would you like to value?</div>
                         <div className="grid grid-cols-4 gap-2 h-[240px]">
                             <div className="bg-[#37623A] rounded-2xl h-28">
